@@ -1,7 +1,7 @@
-# HFT Simulator & Secure E-Voting Evaluation Framework
+# HFT Simulator
 
 ## 📌 Overview
-This project is a modular, audit‑ready simulator for **High‑Frequency Trading (HFT)** strategies and **secure e‑voting systems**.  
+This project is a modular, audit‑ready simulator for **High‑Frequency Trading (HFT)** strategies.  
 It is designed to showcase **scalable architecture, reproducible metrics, and demo‑ready outputs** for recruiters, panels, and technical reviewers.
 
 Key highlights:
