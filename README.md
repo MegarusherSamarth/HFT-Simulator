@@ -133,5 +133,3 @@ Ensure that auditability and demo-readiness are preserved in all contributions.
 
 Created by **MegarusherSamarth**  
 For collaboration or research inquiries, please reach out via GitHub.
-
-```
